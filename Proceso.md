@@ -48,8 +48,10 @@ o	La preferencia de colores del cliente es azul marino y blanco, pero acepta pro
 
 ## Fecha tentativa de inicio del desarrollo del sitio web
     o	25 de febrero, 2022
-    Requerimientos detallados
-    Delinear objetivos del sitio web
+    
+# Requerimientos detallados
+
+## Delinear objetivos del sitio web
     o	Cumplir con requisitos técnicos actuales
     o	Optimización para estrategia SEO
     o	Actualización de contenido
