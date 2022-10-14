@@ -1,6 +1,11 @@
-# ABOGABOT-FrontEndMission-2022
-Práctica ABOGABOT de la FrontEnd Mission para LaunchX LATAM.
+# Wireframes ABOGABOT
+![ABOGABOT LOGO](/RESOURCES/ABOGABOT%20logo%20en%20fondo%20blanco.png)  
 
-Puedes ver el proceso de esta práctica de inicio a fin desde el siguiente menú:
+## Wireframe para escritorio
+![WIREFRAME DESKTOP](/RESOURCES/ABOGABOT%20WIREFRAME%20DESKTOP.png)  
 
+## Wireframe para celular
+![WIREFRAME MOBILE](/RESOURCES/ABOGABOT%20WIREFRAMES%20MOBILE.png)  
 
+## Criterios cromáticos
+![Paleta de color](/RESOURCES/Paleta%20de%20color.png)
