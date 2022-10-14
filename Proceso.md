@@ -1,5 +1,7 @@
 # ABOGABOT
 
+![ABOGABOT LOGO](/RESOURCES/ABOGABOT%20logo%20en%20fondo%20blanco.png)
+
 ## Descripción general del requerimiento
 
 o	Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a través de una página web llenando un formulario.  
@@ -185,10 +187,11 @@ o	Su superior es: Directora de la universidad en la que trabaja
 o	Metas u objetivos: Obtener la custodia de sus hijos  
 o	Obtiene información a través de: Principalmente noticieros en televisión  
 o	Dificultades principales: No conocer despachos jurídicos cercanos ni procesos de abogacía  
-[Buyer persona](/RESOURCES/Buyer%20persona%20ABOGABOT.png)
+
+![Buyer persona](/RESOURCES/Buyer%20persona%20ABOGABOT.png)
 
 ## Público objetivo
-[Target audience](/RESOURCES/P%C3%BAblico%20objetivo%20ABOGABOT.png)  
+![Target audience](/RESOURCES/P%C3%BAblico%20objetivo%20ABOGABOT.png)  
 
 ## Sitemap
-[Mapa de flujo](/RESOURCES/Sitemap%20ABOGABOT.png)  
+![Mapa de flujo](/RESOURCES/Sitemap%20ABOGABOT.png)  
