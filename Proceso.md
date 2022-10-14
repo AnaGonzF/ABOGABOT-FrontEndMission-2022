@@ -47,7 +47,7 @@ o	JavaScript
 o	Otro:  
 
 ## Fecha tentativa de inicio del desarrollo del sitio web
-o	25 de febrero, 2022  
+o	25 de octubre, 2022  
 
 # Requerimientos detallados
 
